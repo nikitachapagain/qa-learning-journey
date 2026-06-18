@@ -8,7 +8,7 @@ This is the foundational phase where the team figures out exactly what needs to 
 
 What happens: Developers, project managers, and clients talk to each other to collect all the requirements. For example, if you are building a Student Management System, you figure out what information needs to be stored (like student names, IDs, grades) and what features are needed (like adding, updating, or deleting a student record).
 
-Outcome: A clear document (often called an SRS or Software Requirement Specification) that lists everything the software must do.
+Outcome: A clear document (often called an SRS or Software Requirement Specification) that lists everything the software must doo.
 
 ---
 
