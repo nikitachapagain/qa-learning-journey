@@ -1,4 +1,4 @@
-# 🚀 QA 180-Day Roadmap
+# 🚀 QA Begineer Roadmap
 
 ## 👋 About Me
 
