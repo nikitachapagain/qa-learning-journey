@@ -226,5 +226,3 @@ Learning Agile Development and Scrum has helped me understand how modern softwar
 ## 🎯 Day 3 Completed ✅
 
 **Part of QA Engineer Learning Journey.**
-
-gi
